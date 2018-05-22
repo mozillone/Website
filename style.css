@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    width: 1170px; margin: 0 auto;
+}
+
+header{
+    position: absolute;left: 0; right: 0;top: 20px;
+}
+.banner img{width: 100%;}
+header ul{
+    float: right;
+    list-style: none;
+    
+}
+
+header ul li{
+    float: left;
+    padding: 10px;
+    margin: auto;
+    
+}
+
+header ul li a{
+    text-decoration: none;
+    
+}
+
+header img{
+    float: left;
+    border: 1px solid red;
+}
+
+
+.bannercontent{
+    position: absolute;
+    top: 50%; right: 0; left: 0;margin: 0 auto; max-width: 500px;
+}
+.btnl_lrn{
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+    display: block;
+    background-color: #FF7200;
+    color: white;
+    width: 150px;
+    padding: 17px 0;
+    border: 0;
+
+}
+.bannercontent{
+    
+}
+
